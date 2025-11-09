@@ -1,10 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2500&pause=1000&color=1DF7D0&background=FFFFFF00&random=false&width=435&lines=I+am+Rushikesh+Powar%F0%F0%9F%92%BB;Cyber+Security+Analysis
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=2500&pause=1000&color=1DF7D0&background=FFFFFF00&random=false&width=435&lines=I+am+Rushikesh+Powar%9F%92%BB;Cyber+Security+Analysis
 )](https://github.com/Rushikesh38-bit/Rushikesh38-bit)
 
 
 
 # 💫 About Me:
-🔭 I’m currently working on Cyber Security Skills.<br>🤝 I’m looking for help with deep learning about python coding.<br>🌱 I’m currently learning CEH, VAPT.<br>💬 Ask me about Cyber security, Networking.<br>⚡ Fun fact I like work with team, by teamwork you can get more knowledge.
+🔭 I’m currently working on Cyber Security Skills.<br>👯 I’m looking to collaborate on Real time projects<br>
+🤝 I’m looking for help with deep learning about python coding.<br>🌱 I’m currently learning CEH, VAPT.<br>💬 Ask me about Cyber security, Networking.<br>⚡ Fun fact I like work with team, by teamwork you can get more knowledge.
 
 
 ## 🌐 Socials:
